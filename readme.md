@@ -9,15 +9,15 @@ This innovative project aims to revolutionize the calibration of aerodrome landi
 
 <div class="image-grid">
     <div class="grid-item">
-        <img src="./images/drones-white.jpg" alt="Drone on Runway">
+        <img src="drones-white.jpg" alt="Drone on Runway">
         <p>Calibration drone operating on an active runway</p>
     </div>
     <div class="grid-item">
-        <img src="./images/dvor.webp" alt="PAPI Light System">
+        <img src="dvor.webp" alt="PAPI Light System">
         <p>VOR</p>
     </div>
     <div class="grid-item">
-        <img src="./images/drone-black.jpg" alt="Calibration in Progress">
+        <img src="drone-black.jpg" alt="Calibration in Progress">
         <p>Drone</p>
     </div>
 </div>

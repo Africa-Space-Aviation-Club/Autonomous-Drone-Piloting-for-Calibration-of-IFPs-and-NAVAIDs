@@ -7,11 +7,11 @@ The Precision Approach Path Indicator (PAPI) Calibration System represents Phase
 
 <div class="image-grid">
     <div class="grid-item">
-        <img src="./images/papi.jpg" alt="PAPI Light System">
+        <img src="papi.jpg" alt="PAPI Light System">
         <p>Standard PAPI light configuration</p>
     </div>
     <div class="grid-item">
-        <img src="./images/papis.jpg" alt="PAPI Light Angles">
+        <img src="papis.jpg" alt="PAPI Light Angles">
         <p>PAPI approach angle visualization</p>
     </div>
 </div>
