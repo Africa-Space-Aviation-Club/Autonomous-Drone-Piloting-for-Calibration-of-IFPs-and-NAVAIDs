@@ -202,9 +202,8 @@ After successful implementation of Phase 1, we plan to:
 
 ## Contact Information
 For specific information about our PAPI Calibration System, please contact:
-- Technical Support: tech@drone-calibration.com
-- Implementation Team: implementation@drone-calibration.com
-- Phone: +123 456 7890
+    Africa Space & Aviation Club
+    Carnegie Mellon University
 
 ## Documentation & Resources
 - [PAPI Calibration System Technical Manual](./docs/technical-manual.pdf)

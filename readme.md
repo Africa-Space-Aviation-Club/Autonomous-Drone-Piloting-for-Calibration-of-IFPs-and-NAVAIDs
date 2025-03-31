@@ -139,9 +139,8 @@ Our solution is designed to meet or exceed all relevant ICAO standards while wor
 
 ## Contact Information
 For more information about this project, please contact:
-- Email: info@drone-calibration.com
-- Phone: +123 456 7890
-- Website: www.drone-calibration.com
+    Africa Space & Aviation Club
+    Carnegie Mellon University
 
 ## License
 This project is licensed under the [MIT License](LICENSE)
